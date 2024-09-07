@@ -204,3 +204,7 @@ This project is licensed under the [MIT License](LICENSE).
 - [All About Circuits](http://www.allaboutcircuits.com/textbook/direct-current/chpt-15/magnetic-fields-and-inductance/)
 - Educational resources and laboratory equipment used in the Magnetism Lab Script.
 
+- ## Author
+- [smahala02](https://github.com/smahala02)
+
+
